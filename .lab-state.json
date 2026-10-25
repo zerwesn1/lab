@@ -6,5 +6,13 @@
   "publisherPrefix": "lab",
   "repo": "zerwesn1/lab",
   "mainRulesetId": 25828799,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://wm-dev-3700.crm.dynamics.com",
+  "devEnvId": "d687c77b-943d-e9e3-b163-4a73f1952311",
+  "devOrgId": "8646770f-9bd0-f111-a04e-6045bd003109",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-3700.crm.dynamics.com",
+  "testEnvId": "517bdb3c-de5e-e70a-9494-f68e7e5c181c",
+  "testOrgId": "f3fca159-9dd0-f111-be87-000d3a5cb42f",
+  "testProfile": "test"
 }
